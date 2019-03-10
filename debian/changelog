@@ -10,6 +10,12 @@ cinnamon-translations (4.4.0) tricia; urgency=medium
 
  -- Clement Lefebvre <root@linuxmint.com>  Tue, 26 Nov 2019 16:42:15 +0000
 
+cinnamon-translations (4.2.2-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Sun, 06 Oct 2019 20:50:19 +0200
+
 cinnamon-translations (4.2.2) tina; urgency=medium
 
   * Update translations
