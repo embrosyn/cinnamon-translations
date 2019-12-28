@@ -1,3 +1,9 @@
+cinnamon-translations (4.4.1-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Sat, 28 Dec 2019 01:25:00 +0100
+
 cinnamon-translations (4.4.1) tricia; urgency=medium
 
   * Update translations
